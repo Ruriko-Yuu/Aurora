@@ -1,0 +1,10 @@
+{
+  "id": "Aurora Order",
+  "name": "Aurora Order",
+  "author": "Ruriko",
+  "version": "0.0.1",
+  "description": "Aurora Order",
+  "gameVersion": "0.9.5",
+  "jars": ["jars/Aurora_Order"],
+  "modPlugin": ""
+}
