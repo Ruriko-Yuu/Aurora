@@ -1,0 +1,2 @@
+# Aurora
+starsector mod
